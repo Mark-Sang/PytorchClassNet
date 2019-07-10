@@ -1,0 +1,1 @@
+class net, if want to use gpu, net data and other data which use net all should add cuda()
